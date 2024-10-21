@@ -1,7 +1,7 @@
 function TravelConsiderationsInfo() {
     return (
       <div>
-        <h2>Special Travel Considerations for Drones</h2>
+        <h2>Special Travel Considerations for Drones.</h2>
         <p>To enter Zimbabwe with a drone, you must apply to the CAAZ at least 30 days prior to your arrival date with the following information:</p>
         <ul>
           <li>Name and address of the drone owner</li>
